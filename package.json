@@ -1,25 +1,24 @@
 {
-  "name": "simple-cookie-parser",
+  "name": "faster-cookie-parser",
   "version": "1.0.0",
-  "description": "A Simple cookie parser.",
+  "description": "A faster cookie parser.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexisTM/simple-cookie-parser.git"
+    "url": "git+https://github.com/AlexisTM/faster-cookie-parser.git"
   },
   "keywords": [
-    "simple",
+    "fast",
     "cookie",
-    "parser",
     "parser"
   ],
   "author": "AlexisTM",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlexisTM/simple-cookie-parser/issues"
+    "url": "https://github.com/AlexisTM/faster-cookie-parser/issues"
   },
-  "homepage": "https://github.com/AlexisTM/simple-cookie-parser#readme"
+  "homepage": "https://github.com/AlexisTM/faster-cookie-parser#readme"
 }
