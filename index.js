@@ -1,5 +1,6 @@
 function parse(cookie) {
     let result = {};
+    cookie = cookie || "";
     let values = cookie.split(";");
     for( value of values ) {
         value = value.trim().split('=');
